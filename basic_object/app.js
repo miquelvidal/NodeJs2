@@ -6,3 +6,6 @@ var person = {
     }
 };
 person.greet();
+
+//també es poden accedir a les dades per [ ] --> molt útil per accedir dinàmicament a variables d'un objecte
+console.log('Variable accedida per [] ' +person['firstname']);

@@ -1,3 +1,4 @@
+//curly brackets to define literals of objects
 var person = {
     firstname: 'Miquel',
     lastname: 'Vidal',

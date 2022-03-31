@@ -1,6 +1,7 @@
-//aquest serà el fitxer de mòdul, simplement una variable que és una funció i la passem pel export (per fer-la servir en un altre lloc)
+//aquest serï¿½ el fitxer de mï¿½dul, simplement una variable que ï¿½s una funciï¿½ i la passem pel export (per fer-la servir en un altre lloc)
 var greet = function () {
     console.log('Hola');
+    console.log('Why not');
 };
 
 module.exports = greet;
